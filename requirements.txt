@@ -1,0 +1,10 @@
+runpod
+numpy
+pillow
+diffusers
+transformers
+accelerate
+safetensors
+huggingface_hub
+sentencepiece
+protobuf
